@@ -7,7 +7,7 @@
 * Brightness control
 * Trackpad (with gestures)
 * fn Volume control keys
-* Wi-Fi
+* Wi-Fi (HeliPort)
 * Microphone
 
 ### Not working
